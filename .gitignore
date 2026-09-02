@@ -1,0 +1,15 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+*.tfplan
+crash.log
+crash.*.log
+
+.vscode/
+.idea/
+
+*.pem
+*.key
+*.crt
+*.pfx
