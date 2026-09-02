@@ -9,7 +9,7 @@ The project demonstrates how a remote/on-premises client can securely access pri
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 ![Architecture](architecture.png)
 
 # Project Goals
