@@ -6,10 +6,9 @@ Azure HybridConnect Gateway is a hands-on Azure networking project that securely
 
 The project demonstrates how a remote/on-premises client can securely access private Azure resources without exposing virtual machines directly to the public Internet.
 
----
 
 ## Architecture
-
+![Architecture](architecture.png)
 
 # Project Goals
 
