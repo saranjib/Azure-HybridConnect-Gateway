@@ -1,6 +1,6 @@
 # Azure HybridConnect Gateway
 
-### Secure Laptop-to-Azure Private Network Connectivity using Point-to-Site VPN
+## 🔐 Secure Laptop-to-Azure Private Network Connectivity using Point-to-Site VPN
 
 Azure HybridConnect Gateway is a hands-on Azure networking project that securely connects an **on-premises Windows laptop** to a **private Azure Virtual Network (VNet)** using **Point-to-Site (P2S) VPN with OpenVPN and certificate-based authentication**.
 
@@ -12,7 +12,7 @@ The project demonstrates how a remote/on-premises client can securely access pri
 ## 🏗️ Architecture
 ![Architecture](architecture.png)
 
-# Project Goals
+# 🎯 Project Goals
 
 The main goals of this project are:
 
